@@ -1,0 +1,71 @@
+[26-Nov-2024 12:10:25 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tesaja1@gmail.com' for key 'PRIMARY' in /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php:26
+Stack trace:
+#0 /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php on line 26
+[26-Nov-2024 12:10:37 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tesaja1@gmail.com' for key 'PRIMARY' in /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php:26
+Stack trace:
+#0 /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php on line 26
+[26-Nov-2024 12:10:46 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tesaja1@gmail.com' for key 'PRIMARY' in /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php:26
+Stack trace:
+#0 /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php on line 26
+[26-Nov-2024 12:11:29 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tesaja1@gmail.com' for key 'PRIMARY' in /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php:26
+Stack trace:
+#0 /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php on line 26
+[26-Nov-2024 12:11:36 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tesaja1@gmail.com' for key 'PRIMARY' in /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php:26
+Stack trace:
+#0 /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php on line 26
+[26-Nov-2024 12:11:42 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tesaja1@gmail.com' for key 'PRIMARY' in /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php:26
+Stack trace:
+#0 /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php on line 26
+[26-Nov-2024 12:11:47 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tesaja1234@gmail.com' for key 'PRIMARY' in /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php:26
+Stack trace:
+#0 /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php on line 26
+[26-Nov-2024 12:11:57 Asia/Jakarta] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry 'tesaja1234@gmail.com' for key 'PRIMARY' in /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php:26
+Stack trace:
+#0 /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php(26): mysqli_stmt->execute()
+#1 {main}
+  thrown in /home/kred3876/public_html/simagang.kreasimu.site/edit_user.php on line 26
+[26-Nov-2024 14:26:45 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[26-Nov-2024 14:26:45 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[26-Nov-2024 14:26:45 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[28-Nov-2024 20:48:08 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[28-Nov-2024 20:48:08 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[28-Nov-2024 20:48:08 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[08-Dec-2024 12:29:09 Asia/Jakarta] PHP Warning:  Undefined array key "gmail" in /home/kred3876/public_html/simagang.kreasimu.site/index.php on line 28
+[08-Dec-2024 12:29:09 Asia/Jakarta] PHP Warning:  Undefined array key "pass" in /home/kred3876/public_html/simagang.kreasimu.site/index.php on line 29
+[11-Dec-2024 16:09:13 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[11-Dec-2024 16:09:13 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[11-Dec-2024 16:09:13 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[11-Dec-2024 16:09:30 Asia/Jakarta] Updating guru: Nurbaiti S.Pd, 198801022023212032, 087833733675, nurbaiticgp@gmail.com, SMKN 21
+[11-Dec-2024 16:09:30 Asia/Jakarta] Update berhasil untuk guru: Nurbaiti S.Pd
+[11-Dec-2024 16:09:31 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[11-Dec-2024 16:09:31 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[11-Dec-2024 16:09:31 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[11-Dec-2024 16:11:04 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[11-Dec-2024 16:11:04 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[11-Dec-2024 16:11:04 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[11-Dec-2024 16:12:51 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[11-Dec-2024 16:12:51 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[11-Dec-2024 16:12:51 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[11-Dec-2024 16:14:22 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[11-Dec-2024 16:14:22 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[11-Dec-2024 16:14:22 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[12-Dec-2024 15:58:10 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[12-Dec-2024 15:58:10 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[12-Dec-2024 15:58:10 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[12-Dec-2024 15:58:29 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[12-Dec-2024 15:58:29 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691
+[12-Dec-2024 15:58:29 Asia/Jakarta] PHP Warning:  Undefined variable $schoolFilter in /home/kred3876/public_html/simagang.kreasimu.site/manage-guru.php on line 691

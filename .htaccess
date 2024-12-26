@@ -1,0 +1,21 @@
+# Prioritaskan file index.php sebagai default
+DirectoryIndex index.php
+
+# Aktifkan mod_rewrite untuk menangani URL rewriting
+RewriteEngine On
+
+# Cek apakah file atau directory yang diminta ada
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+
+# Jika tidak ada file atau directory yang sesuai, alihkan semua permintaan ke index.php
+RewriteRule ^ index.php [L]
+
+Header set Access-Control-Allow-Origin "*"
+
+# php -- BEGIN cPanel-generated handler, do not edit
+# Set the “ea-php74” package as the default “PHP” programming language.
+<IfModule mime_module>
+  AddHandler application/x-httpd-ea-php74___lsphp .php .php7 .phtml
+</IfModule>
+# php -- END cPanel-generated handler, do not edit
